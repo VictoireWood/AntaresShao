@@ -1,0 +1,52 @@
+- 👋 Hi, I’m @AntaresShao
+  - a PhD Candidate
+  - from Beijing, China
+  - Speak Chinese and English
+  - major in instrument science and technology
+- 👀 I’m interested in ...
+  - Movies/Films
+    - Type: Comedy, Science Fiction, Comic based, focusing on stunning stories 
+    - Language: English most, some Chinese, a few other languages
+    - Directors: Wes Anderson, Stanley Kubrick, Christopher Nolan, Woody Allen, Tim Burton
+    - Actor & Actress: Cate Blanchett, Helena Bonham Carter, Ian McKellen, Benedict Cumberbatch, Emma Stone
+  - Composing
+    - Sonic Pi
+    - Helios.fm
+    - MuseScore
+  - Music
+    - Movies'/TV shows' OST
+    - Indie Pop
+    - Post Rock
+    - Rap
+    - Symphony
+    - Light Music
+  - Coding
+    - MATLAB
+    - Markdown
+    - $ \LaTeX $
+    - C
+    - C++ starter
+    - Python
+    - to be continue
+- 🌱 I’m currently learning ...
+  - Simulink Audio Processing (for my school research)
+  - Sonic Pi
+  - Git
+  - .NET/C#
+  - JavaScript
+- 💞️ I’m looking to collaborate on ...
+  - Not qualified enough to start a own project. Not yet.
+- 📫 How to reach me ...
+  - By Mastodon Ⓜ️
+    - antaresshao@fosstodon.org
+  - By Email 📮
+    - starainsxy28@gmail.com
+  - By Twitter 🕊️
+    - @ShaoAntares  
+  - If you need further contact, please try to tell me your requirement by ways above. 
+
+<!---
+AntaresShao/AntaresShao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
