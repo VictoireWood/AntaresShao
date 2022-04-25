@@ -4,23 +4,23 @@
   - Speak Chinese and English
   - major in instrument science and technology
 - 👀 I’m interested in ...
-  - Movies/Films
+  - Movies/Films 🎥
     - Type: Comedy, Science Fiction, Comic based, focusing on stunning stories 
     - Language: English most, some Chinese, a few other languages
     - Directors: Wes Anderson, Stanley Kubrick, Christopher Nolan, Woody Allen, Tim Burton
     - Actor & Actress: Cate Blanchett, Helena Bonham Carter, Ian McKellen, Benedict Cumberbatch, Emma Stone
-  - Composing
+  - Composing 🎵
     - Sonic Pi
     - Helios.fm
     - MuseScore
-  - Music
+  - Music 🎼
     - Movies'/TV shows' OST
     - Indie Pop
     - Post Rock
     - Rap
     - Symphony
     - Light Music
-  - Coding
+  - Coding 💻
     - MATLAB
     - Markdown
     - LaTeX
@@ -28,6 +28,12 @@
     - C++ starter
     - Python
     - to be continue ...
+   - Other special interests
+     - Doctor Who
+     - Harry Potter
+     - The Lord of the Rings
+     - Percy Jackson
+     - Many others. Try me.
 - 🌱 I’m currently learning ...
   - Simulink Audio Processing (for my school research)
   - Git
