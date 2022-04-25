@@ -23,17 +23,17 @@
   - Coding
     - MATLAB
     - Markdown
-    - $ \LaTeX $
+    - LaTeX
     - C
     - C++ starter
     - Python
-    - to be continue
+    - to be continue ...
 - 🌱 I’m currently learning ...
   - Simulink Audio Processing (for my school research)
-  - Sonic Pi
   - Git
   - .NET/C#
   - JavaScript
+  - Sonic Pi
 - 💞️ I’m looking to collaborate on ...
   - Not qualified enough to start a own project. Not yet.
 - 📫 How to reach me ...
@@ -43,7 +43,7 @@
     - starainsxy28@gmail.com
   - By Twitter 🕊️
     - @ShaoAntares  
-  - If you need further contact, please try to tell me your requirement by ways above. 
+  - If you need further contact, please try to tell me your requirement by ways above first. 
 
 <!---
 AntaresShao/AntaresShao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
