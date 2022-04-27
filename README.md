@@ -47,6 +47,7 @@
     - antaresshao@fosstodon.org
   - By Email 📮
     - starainsxy28@gmail.com
+    - starainsxy28@foxmail.com
   - By Twitter 🕊️
     - @ShaoAntares  
   - If you need further contact, please try to tell me your requirement by ways above first. 
